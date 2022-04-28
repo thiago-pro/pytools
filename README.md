@@ -1,6 +1,8 @@
 # pytools
 modulo do curso pytools
 
+[![Build Status](https://app.travis-ci.com/thiago-pro/pytools.svg?branch=main)](https://app.travis-ci.com/thiago-pro/pytools)
+
 Suportada versão 3 de python
 
 Para instalar:
