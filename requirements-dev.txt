@@ -1,0 +1,18 @@
+flake8==4.0.1
+importlib-metadata==4.2.0
+mccabe==0.6.1
+pycodestyle==2.8.0
+pyflakes==2.4.0
+
+#Deps do pytest
+pyparsing==3.0.5
+attrs==19.2.0
+py==1.8.2
+pluggy==2.0
+atomicwrites==1.0;
+tomli==1.0.0
+pytest==7.1.2
+coverage==6.3.3
+typing-extensions==4.2.0
+zipp==3.8.0
+-r requirements.txt
